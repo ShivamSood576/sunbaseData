@@ -1,0 +1,4 @@
+According to me the data is not good we can see this in graph the churn are equal 
+but I Check with the ML model 
+and  ANN(Artificial Neural network)
+pls check classification report review also 
